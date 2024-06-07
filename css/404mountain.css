@@ -1,5 +1,26 @@
+body{
+    background-color: #e1faff;
+}
 #p404 {
     font-size: 61px;
     font-weight: 900;
-    color: rgb(52,65,78);
+    color: #5039c7;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+#description{
+    width: 400px;
+    word-wrap: normal;
+}
+img{
+    margin-left: 50%;
+}
+#container {
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
+#b {
+    background-color: #31ced7;
 }
